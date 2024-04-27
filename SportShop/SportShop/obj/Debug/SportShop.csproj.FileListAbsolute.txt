@@ -1,0 +1,6 @@
+C:\Users\Fedor\source\repos\SportShop\SportShop\obj\Debug\SportShop.csproj.AssemblyReference.cache
+C:\Users\Fedor\source\repos\SportShop\SportShop\obj\Debug\SportShop.Authorization.resources
+C:\Users\Fedor\source\repos\SportShop\SportShop\obj\Debug\SportShop.Catalog_Form.resources
+C:\Users\Fedor\source\repos\SportShop\SportShop\obj\Debug\SportShop.Properties.Resources.resources
+C:\Users\Fedor\source\repos\SportShop\SportShop\obj\Debug\SportShop.csproj.GenerateResource.cache
+C:\Users\Fedor\source\repos\SportShop\SportShop\obj\Debug\SportShop.csproj.CoreCompileInputs.cache
